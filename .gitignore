@@ -1,0 +1,12 @@
+# No IDE files
+.vscode/*
+nbproject/*
+
+# No secondary files
+node_modules
+
+# No crawl data
+Source/Results/*
+
+# No analysis files
+result.json
